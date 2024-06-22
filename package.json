@@ -1,0 +1,11 @@
+{
+  "name": "call_back_fun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Existing call_back_fun is converted into promises and async/await"
+}
